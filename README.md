@@ -62,6 +62,6 @@ Contributions to the React Data Grid component are welcome! If you find any issu
 
 ## 🚀 Credits
 
-The React Data Grid component was created by Pranav Dharme.
+The React Data Grid component was created by Sathish S.
 
 Happy coding!
